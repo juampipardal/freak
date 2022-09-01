@@ -1,0 +1,16 @@
+.container-1 {
+  background-color: #ccc;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.class-1 {
+  background-color: rgb(228, 196, 196);
+}
+
+.class-2 {
+  background-color: rgb(50, 156, 94);
+}
+
+/*# sourceMappingURL=/styles.164d45a1.css.map */

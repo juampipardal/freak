@@ -1,0 +1,21 @@
+{
+  "name": "freak",
+  "version": "1.0.0",
+  "description": "freak framework",
+  "main": "index.ts",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "snabbdom": "^3.5.1",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "@types/node": "^18.6.3",
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.54.3",
+    "typescript": "^4.7.4"
+  }
+}
